@@ -746,11 +746,11 @@ h1, h2, h3, h4 {
     top: 0;
     bottom: 0;
     width: 2px;
-    background: linear-gradient(to bottom, var(--accent-gold), rgba(212, 175, 55, 0.1));
+    background: linear-gradient(to bottom, var(--accent-gold), rgba(85, 6, 6, 0.737));
 }
 
 .timeline-item {
-    background: rgba(255,255,255,0.02);
+    background: rgba(85, 6, 6, 0.735);
     border: 1px solid var(--border-color);
     padding: 16px 24px;
     border-radius: var(--radius-sm);

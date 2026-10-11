@@ -125,14 +125,12 @@ padding: 10px 17px;
 display: none;
 }
 
-/* HERO - OVERLAY FIXED */
-
 .hero {
 position: relative;
 min-height: 590px;
 display: flex;
 align-items: center;
-color: #ffffff;
+color: green;
 background-color: var(--green-deep);
 background-image: url("image/SupremeCourtOfPakistan.jpg");
 background-position: center;

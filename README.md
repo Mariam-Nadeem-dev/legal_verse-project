@@ -7,7 +7,7 @@ Project Overview
 Legal Verse is a website project created for a real lawyer in Pakistan. Its purpose is to introduce the lawyer's work and help visitors explore legal information and find contact details.
 
 Live Website
-
+https://mariam-nadeem-dev.github.io/legal_verse-project/
 
 Built With
 
